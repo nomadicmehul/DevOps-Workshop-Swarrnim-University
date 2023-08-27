@@ -10,3 +10,6 @@ For instance;
 
 1. **Name:** K. Shravya <br>          
    **Learned:** Learned git cli and docker basics.
+
+1. **Name:** Gajjar Aryan <br>          
+   **Learned:** Learned git cli , docker basics , devops basics ,next time in intermediate and some little projects too .
