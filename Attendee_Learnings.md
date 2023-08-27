@@ -8,8 +8,11 @@ For instance;
 1. **Name:** Sneh Gupta <br>          
    **Learned:** Learned git cli, docker and devops stuff.
 
-1. **Name:** K. Shravya <br>          
+2. **Name:** K. Shravya <br>          
    **Learned:** Learned git cli and docker basics.
 
-1. **Name:** Aryan Gajjar <br>          
+3. **Name:** Aryan Gajjar <br>          
    **Learned:** Learned git cli , docker basics , devops basics ,next time in intermediate and some little projects too :).
+
+4. **Name:** Gajjar Aryan <br>          
+   **Learned:** Learned git cli , docker basics , devops basics ,next time in intermediate and some little projects too .
