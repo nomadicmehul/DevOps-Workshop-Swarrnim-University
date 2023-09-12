@@ -22,3 +22,6 @@ For instance;
 
 6. **Name:** Gajjar Aryan <br>          
    **Learned:** Learned git cli , docker basics , devops basics ,next time in intermediate and some little projects too .
+
+7. **Name:** Akash Choudhary <br>          
+   **Learned:** Lots of learnings and understand basics of git and docker .
